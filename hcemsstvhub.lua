@@ -96,16 +96,16 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://83190276951914",
+    Image = "rbxassetid://135035908351442",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
 v4(25, v7);
 local v8 = CreateObject("TextLabel", {
-    Name = "UserName",
+    Name = "",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Youtube: TBoy Roblox",
+    Text = "hcemsstvhub",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
